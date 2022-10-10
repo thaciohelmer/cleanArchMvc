@@ -361,7 +361,6 @@ C:\Users\thacio.helmer\Documents\Estudos\curso_cleanarq\CleanArchMvc.WebUI\bin\D
 C:\Users\thacio.helmer\Documents\Estudos\curso_cleanarq\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\thacio.helmer\Documents\Estudos\curso_cleanarq\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\thacio.helmer\Documents\Estudos\curso_cleanarq\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\thacio.helmer\Documents\Estudos\curso_cleanarq\CleanArchMvc.WebUI\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Users\thacio.helmer\Documents\Estudos\curso_cleanarq\CleanArchMvc.WebUI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
 C:\Users\thacio.helmer\Documents\Estudos\curso_cleanarq\CleanArchMvc.WebUI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 C:\Users\thacio.helmer\Documents\Estudos\curso_cleanarq\CleanArchMvc.WebUI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
@@ -410,3 +409,8 @@ C:\Users\thacio.helmer\Documents\Estudos\curso_cleanarq\CleanArchMvc.WebUI\bin\D
 C:\Users\thacio.helmer\Documents\Estudos\curso_cleanarq\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
 C:\Users\thacio.helmer\Documents\Estudos\curso_cleanarq\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
 C:\Users\thacio.helmer\Documents\Estudos\curso_cleanarq\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\thacio.helmer\Documents\Estudos\curso_cleanarq\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\thacio.helmer\Documents\Estudos\curso_cleanarq\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\thacio.helmer\Documents\Estudos\curso_cleanarq\CleanArchMvc.WebUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\thacio.helmer\Documents\Estudos\curso_cleanarq\CleanArchMvc.WebUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\thacio.helmer\Documents\Estudos\curso_cleanarq\CleanArchMvc.WebUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
